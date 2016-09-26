@@ -12,7 +12,7 @@ PokemonGoMITM = require './lib/pokemon-go-mitm'
 
 server = new PokemonGoMITM port: 8081
 	.addResponseHandler "FortDetails", (data) ->
-		data.name = "Pokemon GO HACKED!"
-		data.description = "Sparksammy was here!"
-		data.image_urls = ["http://thecatapi.com/api/images/get?format=src&type=png"]
+		data.name = "Sparksammy has HACKED Pokemon GO"
+		data.description = "hacked!"
+		data.image_urls = ["https://lh3.googleusercontent.com/-xOWGs5I-OnY/VbKZPrwO7-I/AAAAAAAACD0/L6hdBLzd46s/w506-h750/Sparksammy.png"]
 		data

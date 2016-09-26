@@ -141,4 +141,3 @@ Thanks to the awesom work done around [POGOProtos](https://github.com/AeonLucid/
 * UseItemXpBoost
 
 Enjoy! And heaps of thanks to everyone who contributed here and on slack!
-# forks-pkmn
